@@ -1,4 +1,4 @@
-# [Sphero](https://telegram.me/Sphero) *And Professionall* [Helper](http://telegram.me/Spherorobot)
+# [spark.team](https://telegram.me/SPARKSTEAM1) *And Professionall* [Helper](http://telegram.me/sparkteambot)
 
 _Open Source For all_
 
@@ -12,9 +12,9 @@ _Based on Yagop _
 
 * sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev
 
-* git clone https://github.com/3pehrdev/Sphero
+* git clone https://github.com/SPARKTEA/spark.team
 
-* cd Sphero
+* cd spark.team
 
 * ./launch.sh install
 
@@ -24,7 +24,7 @@ _Based on Yagop _
 And check *bot/seedbot.lua : line 229* and putt your ID
 * Good Source Is ready for you :)
 
-# [My Team](http://telegram.me/Spheroch)
+# [My Team](http://telegram.me/SPARKSTEAM1)
 *Admin or me :* [MrBlackLife](http://telegram.me/mrblacklife)
 *Mobin BlackLife
 *Solid BlackLife
